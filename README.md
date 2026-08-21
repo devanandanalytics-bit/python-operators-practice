@@ -1,2 +1,2 @@
 # python-operators-practice
-My first 20 Python operator practice questions.
+My first 30 Python operator practice questions.
